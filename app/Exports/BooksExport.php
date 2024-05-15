@@ -33,7 +33,6 @@ class BooksExport implements FromQuery, WithHeadings
             'Title',
             'Author',
             'Published At',
-            // Добавьте сюда все необходимые заголовки
         ];
     }
 
