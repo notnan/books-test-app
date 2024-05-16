@@ -21,6 +21,10 @@
     ```bash
     php artisan db:seed
     ```
+4. Запустите сборку фронтенда:
+    ```bash
+    npm i && npm run build
+    ```
 
 ## Авторизация
 
